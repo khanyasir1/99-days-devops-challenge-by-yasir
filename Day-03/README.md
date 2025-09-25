@@ -2,7 +2,7 @@
 
 # 🚀 99 Days of DevOps Challenge
  
-**Day 03 – Linux Shell Scripting & Automation**
+**Day 03 - Git & GitHub - Basics, Branching, Merging, PRs**
 
 
 ## What is Git and GitHub?
