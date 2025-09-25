@@ -6,3 +6,4 @@
 **Day 02 – Linux Shell Scripting & Automation** 
 ---
 **Day 03 - Git & GitHub - Basics, Branching, Merging, PRs**
+---
