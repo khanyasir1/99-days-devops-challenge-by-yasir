@@ -7,3 +7,5 @@
 ---
 **Day 03 - Git & GitHub - Basics, Branching, Merging, PRs**
 ---
+**Day 04 – Git Advanced: Rebase, Cherry-pick, Conflict Resolution**
+---
