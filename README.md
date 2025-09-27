@@ -9,3 +9,5 @@
 ---
 **Day 04 – Git Advanced: Rebase, Cherry-pick, Conflict Resolution**
 ---
+**Day 05 – Python Basics for DevOps** 
+---

@@ -303,16 +303,6 @@ We used `subprocess.run()` to execute Linux commands: `useradd` to create users 
 
 ---
 
-## 📂 Repo Structure
-
-```
-99-days-devops-challenge/
- ├── Day05_Python_Basics/
- │   ├── README.md   # Notes + challenges
- │   ├── read.txt    # For Challenge 2
- │   ├── server_list.txt # For Challenge 5
-```
-
 ✨ Day 5 done! Consistency is 🔑
 
 ---
