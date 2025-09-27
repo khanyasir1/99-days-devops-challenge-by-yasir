@@ -1,0 +1,12 @@
+with open("read.txt", "r") as f:
+    # 1. Read the file content into a string
+    file_content = f.read()
+    
+    # 2. Split the string into a list of words
+    words = file_content.split()
+    
+    # 3. Count the number of items (words) in the list
+    word_count = len(words)
+    
+    # 4. Print the final count
+    print(f"Total words: {word_count}")
